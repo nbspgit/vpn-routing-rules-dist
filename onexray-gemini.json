@@ -104,8 +104,7 @@
           "domain:nnm-club.me",
           "domain:nnm-club.ru",
           "domain:lostfilm.tv",
-          "domain:newstudio.tv",
-          "domain:ci-router-check.example.com"
+          "domain:newstudio.tv"
         ],
         "queryStrategy": "UseIPv4"
       },
@@ -274,8 +273,7 @@
           "domain:nnm-club.me",
           "domain:nnm-club.ru",
           "domain:lostfilm.tv",
-          "domain:newstudio.tv",
-          "domain:ci-router-check.example.com"
+          "domain:newstudio.tv"
         ],
         "outboundTag": "proxy",
         "ruleTag": "proxy-manual"

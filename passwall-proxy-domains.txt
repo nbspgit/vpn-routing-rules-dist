@@ -10,7 +10,6 @@ bard-pa.googleapis.com
 bard.google.com
 canva.com
 chatgpt.com
-ci-router-check.example.com
 civitai.com
 claude.ai
 clients6.google.com

@@ -106,7 +106,8 @@
           "domain:nnm-club.me",
           "domain:nnm-club.ru",
           "domain:lostfilm.tv",
-          "domain:newstudio.tv"
+          "domain:newstudio.tv",
+          "domain:ci-router-check.example.com"
         ]
       },
       {
@@ -233,7 +234,8 @@
           "domain:nnm-club.me",
           "domain:nnm-club.ru",
           "domain:lostfilm.tv",
-          "domain:newstudio.tv"
+          "domain:newstudio.tv",
+          "domain:ci-router-check.example.com"
         ],
         "balancerTag": "proxy",
         "ruleTag": "proxy-manual"

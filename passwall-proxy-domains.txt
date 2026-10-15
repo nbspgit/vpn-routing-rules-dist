@@ -23,6 +23,8 @@ fanart.tv
 geller-pa.googleapis.com
 gemini.google.com
 generativelanguage.googleapis.com
+github.com
+githubusercontent.com
 googleai.googleapis.com
 googleapis.com
 googleusercontent.com
@@ -51,6 +53,7 @@ ogads-pa.googleapis.com
 ogs.google.com
 openai.com
 openrouter.ai
+packagecontrol.io
 perplexity.ai
 play.googleapis.com
 podcasts.apple.com
@@ -60,6 +63,8 @@ rutracker-reflect.net
 rutracker.net
 rutracker.org
 spotify.com
+sublimetext.com
+sublimetext.io
 themoviedb.org
 thetvdb.com
 tmdb.org
@@ -69,6 +74,7 @@ vas3k.club
 vas3k.dev
 vas3k.ru
 waa-pa.googleapis.com
+wbond.net
 youtu.be
 youtube.com
 yt3.ggpht.com

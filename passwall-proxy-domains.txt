@@ -51,6 +51,7 @@ oaistatic.com
 oaiusercontent.com
 ogads-pa.googleapis.com
 ogs.google.com
+omeclk.com
 openai.com
 openrouter.ai
 packagecontrol.io
@@ -69,6 +70,7 @@ themoviedb.org
 thetvdb.com
 tmdb.org
 trakt.tv
+trash-guides.info
 vas3k.blog
 vas3k.club
 vas3k.dev

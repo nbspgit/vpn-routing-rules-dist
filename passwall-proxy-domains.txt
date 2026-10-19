@@ -58,6 +58,7 @@ openrouter.ai
 packagecontrol.io
 perplexity.ai
 play.googleapis.com
+plotly.com
 podcasts.apple.com
 proactivebackend-pa.googleapis.com
 pst.net

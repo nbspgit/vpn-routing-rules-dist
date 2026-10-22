@@ -1,3 +1,5 @@
+aadcdn.microsoftonline.net
+aadcdn.msftauth.net
 accounts.google.com
 ai.google.dev
 aistudio.google.com
@@ -17,6 +19,7 @@ cloudaicompanion.googleapis.com
 cloudconfig.googleapis.com
 deepmind.com
 deepmind.google
+dev.azure.com
 docker.com
 docker.io
 fanart.tv
@@ -33,9 +36,13 @@ image.tmdb.org
 itunes.apple.com
 kinozal.me
 kinozal.tv
+login.live.com
+login.microsoftonline.com
 lostfilm.tv
 midjourney.com
 mobileassistant-pa.googleapis.com
+msauth.net
+msftauth.net
 myaccount.google.com
 mzstatic.com
 netflix.com
@@ -77,6 +84,10 @@ vas3k.blog
 vas3k.club
 vas3k.dev
 vas3k.ru
+visualstudio.com
+vscode-cdn.net
+vscode-unpkg.net
+vscode.dev
 waa-pa.googleapis.com
 wbond.net
 youtu.be

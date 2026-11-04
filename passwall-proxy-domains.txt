@@ -23,6 +23,7 @@ claude.ai
 clients6.google.com
 cloudaicompanion.googleapis.com
 cloudconfig.googleapis.com
+d3ctxlq1ktw2nl.cloudfront.net
 deepmind.com
 deepmind.google
 docker.com

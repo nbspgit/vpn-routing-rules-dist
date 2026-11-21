@@ -20,6 +20,9 @@ chrt.fm
 chtbl.com
 civitai.com
 claude.ai
+claude.com
+claudemcpcontent.com
+claudeusercontent.com
 clients6.google.com
 cloudaicompanion.googleapis.com
 cloudconfig.googleapis.com
@@ -37,6 +40,7 @@ githubusercontent.com
 googleai.googleapis.com
 googleapis.com
 googleusercontent.com
+http-intake.logs.us5.datadoghq.com
 huggingface.co
 image.tmdb.org
 itunes.apple.com
@@ -59,6 +63,7 @@ notebook.google
 notebook.google.com
 notebooklm.google
 notebooklm.google.com
+o1158394.ingest.us.sentry.io
 oaistatic.com
 oaiusercontent.com
 ogads-pa.googleapis.com
@@ -80,6 +85,7 @@ redcircle.com
 rutracker-reflect.net
 rutracker.net
 rutracker.org
+servd-anthropic-website.b-cdn.net
 simplecast.com
 simplecastaudio.com
 spotify.com
